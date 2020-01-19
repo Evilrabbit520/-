@@ -22,12 +22,17 @@
 **抽象：**
 
 trinary-tree;data structure;abstract data type.
+
 三叉树;数据结构;抽象数据类形。
 
 **提取：**
+
 Then computers make sure the location important information and abstract it.
+
 再对票据图象中的重要信息区域进行定位、提取。
 
 **摘要：**
+
 This method is different from old one that extracts title and abstract only.
+
 不再象传统抽取特征方法那样,只考虑标题、摘要等因素。
