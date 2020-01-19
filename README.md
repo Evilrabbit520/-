@@ -5,7 +5,7 @@
 
 | 单词  | 音标 [美] | 中文释义 | 详情 |
 | :----: | :----: | :------- | :----: |
-| Access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=0) | ⚓['ækses] | n.(对计算机存储器的)访问;v.访问/存取;adj.对外公开的 | [详情](Detailed/Access.md) |
+| Access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=0?_blank) | ⚓['ækses] | n.(对计算机存储器的)访问;v.访问/存取;adj.对外公开的 | [详情](Detailed/Access.md) |
 
 <br/><br/>
 
