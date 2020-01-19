@@ -4,6 +4,13 @@
 - v. 接近，使用；访问，存取（电脑文档）
 - adj. （电视节目或时间等）对外公开的
 
+<hr style="width:50%"/>
+
+- 过去式 accessed 
+- 过去分词 accessed 
+- 现在分词 accessing 
+- 第三人称单数 accesses
+
 ### 专业释义
 
 **接入：**
